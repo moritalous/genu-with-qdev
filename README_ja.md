@@ -5,9 +5,9 @@
 
 [English](./README.md) | 日本語
 
-生成 AI を安全に業務活用するための、ビジネスユースケース集を備えたアプリケーション実装
+生成 AI をウェルアーキテクトに業務活用するための、ビジネスユースケース集を備えたアプリケーション実装
 
-  <img src="docs/assets/images/sc_lp_ja.png" alt="生成 AI を安全に業務活用するための、ビジネスユースケース集を備えたアプリケーション実装" width="68%">
+  <img src="docs/assets/images/sc_lp_ja.png" alt="生成 AI をウェルアーキテクトに業務活用するための、ビジネスユースケース集を備えたアプリケーション実装" width="68%">
 </div>
 
 > [!IMPORTANT]

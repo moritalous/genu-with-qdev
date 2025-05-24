@@ -490,7 +490,7 @@ landing:
         It also provides a wide range of capabilities needed for building generative AI applications, enabling simplified development while maintaining privacy and security.
         By using Amazon Bedrock's comprehensive features, you can easily experiment with various top FMs, privately customize data using techniques like fine-tuning and retrieval-augmented generation (RAG), and create managed agents that perform complex business tasks ranging from travel booking and insurance claim processing to advertising campaign creation and inventory management.
         All of this can be done without writing any code. Since Amazon Bedrock is serverless, you don't need to manage infrastructure.
-        Additionally, you can safely integrate and deploy generative AI capabilities into your applications using familiar AWS services.
+        Additionally, you can well-architected integrate and deploy generative AI capabilities into your applications using familiar AWS services.
     image:
       content: >-
         Please output smartphone advertisement design ideas.
